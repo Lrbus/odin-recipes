@@ -1,0 +1,38 @@
+.pgname {
+  font-size: 50px;
+  background-color: green;
+  color: white;
+  text-shadow: 2px 2px 4px rgba(131, 85, 0, 0.805);
+  padding: 10px;
+  padding-inline: 30px;
+  border-radius: 50px;
+}
+
+.front-img {
+  width: 50%;
+  opacity: 0.85;
+  border-radius: 50px;
+  margin-bottom: 30px;
+}
+
+.main {
+  background-color: orange;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: grid;
+  height: 70%;
+  place-items: center center;
+}
+
+.butoane {
+  background-color: green;
+  padding: 10px;
+  padding-inline: 20px;
+  color: white;
+  text-decoration: none;
+  border-radius: 50px;
+}
+
+h2:hover {
+  opacity: 0.75;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.49);
+}
